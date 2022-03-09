@@ -1,0 +1,57 @@
+body
+{
+  background-color: #111;
+}
+h1
+{
+  background-color: #fff;
+  text-align: center;
+  font-size: 2.5rem;
+}
+main
+{
+  display: flex;
+  justify-content: center;
+
+}
+section
+{
+  
+  margin-left: 10px;
+}
+button
+{
+  cursor: pointer;
+  background-color: rgb(173, 76, 76);
+  color: rgb(241, 231, 134);
+  border: solid 3px #fff;
+  font-size: 1.5rem;
+
+  padding: 15px;
+}
+  button:hover
+  {
+    background-color: brown;
+  }
+span
+{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  
+
+}
+div
+{
+  background-color: rgb(241, 231, 134);
+  border: solid 3px #fff;
+  height: 500px;
+  width: 500px;
+  
+}
+img
+{
+  width: 500px;
+  height: 500px;
+}
+
